@@ -1,7 +1,6 @@
 import React from 'react';
 import { STATE } from '../../models/State.enum';
 import { Contact } from '../../models/Contact.class';
-import TaskComponent from '../pure/SingleContact';
 import SingleContact from '../pure/SingleContact';
 
 // =========COMPONENT A============//
